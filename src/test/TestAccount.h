@@ -48,6 +48,8 @@ class TestAccount
 
     void manageData(std::string const& name, DataValue* value);
 
+    void bumpSequence(AccountID const& account, SequenceNumber to, BumpSeqValidRange* range);
+
     OfferFrame::pointer loadOffer(uint64_t offerID) const;
     bool hasOffer(uint64_t offerID) const;
     uint64_t

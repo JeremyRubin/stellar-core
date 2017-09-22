@@ -237,5 +237,21 @@ class ex_SET_OPTIONS_INVALID_HOME_DOMAIN
 class ex_INFLATION_NOT_TIME
 {
 };
+
+class ex_BUMP_SEQ_NOT_SUPPORTED_YET
+{
+};
+class ex_BUMP_SEQ_NO_ACCOUNT
+{
+};
+class ex_BUMP_SEQ_INVALID_RANGE
+{
+};
+class ex_BUMP_SEQ_OUT_OF_RANGE
+{
+};
+class ex_BUMP_SEQ_NO_SELF_BUMP
+{
+};
 }
 }
