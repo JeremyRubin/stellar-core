@@ -241,9 +241,6 @@ class ex_INFLATION_NOT_TIME
 class ex_BUMP_SEQ_NOT_SUPPORTED_YET
 {
 };
-class ex_BUMP_SEQ_NO_ACCOUNT
-{
-};
 class ex_BUMP_SEQ_INVALID_RANGE
 {
 };
